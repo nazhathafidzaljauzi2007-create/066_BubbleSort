@@ -11,7 +11,7 @@ void input()
     while (true)
     {
         cout << "Masukkan banyaknya elemen pada array : "; 
-        cin >> n;
+        cin >> n; 
         if (n <= 20)
             break;
         else
